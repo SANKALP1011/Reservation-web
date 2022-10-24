@@ -1,0 +1,12 @@
+.Navbar {
+  width: 100%;
+  top: 0;
+}
+.LeftContent {
+  float: left;
+  margin: 0% 30% 0 2%;
+}
+.NavHeading {
+  font-size: 35px;
+  font-weight: bolder;
+}
