@@ -1,0 +1,13 @@
+.ScreenshotCarasoul {
+  margin: 20% 0 20% 5%;
+  display: flex;
+}
+.LeftContent {
+  width: 300%;
+  height: 100px;
+  border-radius: 15px;
+}
+.PostmanSS {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  width: 100%;
+}

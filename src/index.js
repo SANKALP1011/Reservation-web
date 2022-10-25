@@ -2,6 +2,9 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import "../src/Styles/Navbar.css";
+import "../src/Styles/Pages/Documentation.css";
+import "../src/Styles/DetailCard.css";
+import "../src/Styles/Caraosel.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

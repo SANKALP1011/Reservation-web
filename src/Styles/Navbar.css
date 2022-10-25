@@ -1,12 +1,16 @@
 .Navbar {
   width: 100%;
   top: 0;
+  margin: 0 0 0 0;
 }
 .LeftContent {
   float: left;
   margin: 0% 30% 0 2%;
 }
 .NavHeading {
-  font-size: 35px;
+  font-size: 30px;
   font-weight: bolder;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #af0171;
 }
